@@ -2,8 +2,10 @@
 	had to get back at it, loved the days of noboline. (note by springs)
 	credits:
 	hazelware - table (got permission)
+	didnt get permission to rewrite this shit but..... IDGAF!!!!
 	
 	continued by spring, hope u enjoy xD
+	now discontinued by spring and continued by whyz
 ]]
 
 --[[ Logo ]]
@@ -26,7 +28,7 @@ LogoText.BorderSizePixel = 0
 LogoText.Position = UDim2.new(0.0355871879, 0, 0.137254909, 0)
 LogoText.Size = UDim2.new(0, 260, 0, 37)
 LogoText.Font = Enum.Font.SourceSans
-LogoText.Text = "Noboline 4.0 | Remake | Beta"
+LogoText.Text = "Noboline 9.94 | Remake by six/whyz Oringal by Springs67 | Beta"
 LogoText.TextColor3 = Color3.fromRGB(0, 0, 0)
 LogoText.TextScaled = true
 LogoText.TextSize = 24.000
